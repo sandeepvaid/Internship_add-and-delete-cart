@@ -1,0 +1,26 @@
+
+
+.cart-button{
+    width: 180px;
+    height: 30px;
+    position: relative;
+    top: 40px;
+    background-color: rgb(0, 153, 255);
+    margin: 3px;
+}
+/*  
+ #main-div{
+    display: flex;
+} */
+
+#container-1{
+    display: flex;
+}
+
+#products{
+    display: inline-block;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    margin-bottom: 10px;
+} 
